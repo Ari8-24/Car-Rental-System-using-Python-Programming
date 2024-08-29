@@ -1,0 +1,8 @@
+haru, harupass, A
+uuser, uuserppp, U
+tguha, tguhappp, A
+tushu, tushuppp, A
+newuser, newuserpass, U
+t_godd, travis1, U
+abcd, efghijkl, U
+dguha, dguhappp, A
